@@ -1,4 +1,4 @@
-<img src="https://github.com/ljlm0402/ljlm0402/blob/master/logo_w.webp?raw=true" width="200px">
+<img src="https://github.com/ljlm0402/ljlm0402/blob/master/agumon.gif?raw=true" width="200px">
 <!-- <img src="https://github.com/ljlm0402/ljlm0402/blob/master/logo.gif?raw=true" width="300px"> -->
 
 <!--
