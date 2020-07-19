@@ -1,5 +1,4 @@
-<img src="https://github.com/ljlm0402/ljlm0402/blob/master/agumon.gif?raw=true" width="200px">
-<!-- <img src="https://github.com/ljlm0402/ljlm0402/blob/master/logo.gif?raw=true" width="300px"> -->
+<img src="https://github.com/ljlm0402/ljlm0402/blob/images/avatar.gif?raw=true" width="200px">
 
 <!--
 **ljlm0402/ljlm0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
