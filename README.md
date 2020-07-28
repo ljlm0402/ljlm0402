@@ -1,6 +1,6 @@
 <img src="https://github.com/ljlm0402/ljlm0402/blob/images/avatar.gif?raw=true" width="200px" alt="Gif">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ljlm0402&show_icons=true&theme=default" alt="GitHub State">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ljlm0402&show_icons=true&theme=default" alt="GitHub State"> -->
 
 <!--
 **ljlm0402/ljlm0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
