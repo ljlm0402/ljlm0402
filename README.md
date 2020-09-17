@@ -12,6 +12,9 @@
 ## Coding Stats
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ## &#x1f4c8; GitHub Stats
