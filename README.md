@@ -4,12 +4,12 @@
 
 <details>
 <summary>
-  자세히
+  details
 </summary>
 
 <br />
 
-## Coding Stats
+## 📊 Coding Stats
 
 <!--START_SECTION:waka-->
 ```text
@@ -17,7 +17,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-## &#x1f4c8; GitHub Stats
+## 📈 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljlm0402&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" align="center" alt="Most Used Languages" />
 
