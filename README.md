@@ -11,11 +11,7 @@
 
 ## 📊 Coding Stats
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+<img src="https://github.com/ljlm0402/ljlm0402/blob/master/images/stat.svg" alt="Alternative Text"/>
 
 ## 📈 GitHub Stats
 
