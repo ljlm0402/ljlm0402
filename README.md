@@ -15,9 +15,9 @@
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljlm0402&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" align="center" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljlm0402&hide=java,html" align="center" alt="Most Used Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ljlm0402&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" align="center" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ljlm0402" align="center" alt="GitHub Stats" />
 
 </details>
 
