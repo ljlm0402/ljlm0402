@@ -8,5 +8,6 @@
 </p>
 
 ## 🏆 GitHub Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ljlm0402)](https://github.com/ljlm0402/github-profile-trophy)
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ljlm0402&column=8&no-frame=true"/>
+</p>
