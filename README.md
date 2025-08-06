@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/ljlm0402/ljlm0402/blob/images/avatar.gif?raw=true" width="200px" alt="agumon" />
-  <h2>Hi there! I'm Agumon (DevelopMon) 👋</h2>
+  <h2>Hi there! I'm LIM KYUNGMIN (AguMon) 👋</h2>
   <p>
     Passionate about Node.js, JavaScript, and TypeScript.<br>
     Always learning, always building. 🚀<br>
