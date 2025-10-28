@@ -65,7 +65,7 @@ const agumon = {
 ## 📊 GitHub 통계
 
 
-## � GitHub Analytics
+## 📄 GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ljlm0402&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
